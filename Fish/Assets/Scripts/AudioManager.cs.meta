@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 719b96c6cf4c41c4eafc3b5a11609db7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgmAudio: {instanceID: 0}
+  - seawaveClip: {instanceID: 0}
+  - goldClip: {instanceID: 0}
+  - rewardClip: {instanceID: 0}
+  - fireClip: {instanceID: 0}
+  - changeClip: {instanceID: 0}
+  - lvUpClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
